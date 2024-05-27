@@ -1,1 +1,10 @@
 
+# Importing needed libraries
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Importing library to see calculation progress inside loops in Real Time
+# To install, use following command: pip install tqdm
+# Don't forget to activate environment in which you're working
+from tqdm import tqdm
