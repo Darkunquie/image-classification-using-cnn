@@ -1,0 +1,9 @@
+
+# Algorithm:
+# --> Reading coloured images
+# --> Converting images to GRAY
+# --> Defining common filters for edge detection
+# --> Finding edges by convolution
+#
+# Result: Plot with input GRAY images and images with detected edges
+# by different filters
