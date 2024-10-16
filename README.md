@@ -24,7 +24,7 @@ input_test.csv: Testing images
 labels_test.csv: Labels for testing images
 Ensure that the images are formatted as 100x100 pixels with 3 color channels (RGB).
 
-##**Usage**
+## Usage
 Load your data into the specified CSV files.
 Run the provided code in a Jupyter Notebook or Google Colab.
 Adjust the number of epochs and batch size as needed for your dataset.
