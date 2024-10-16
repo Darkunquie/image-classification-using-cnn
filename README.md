@@ -15,7 +15,7 @@ You can install the required packages using pip:
 
 
 pip install tensorflow numpy matplotlib
-##Dataset
+## Dataset
 The dataset consists of images stored in CSV format:
 
 input.csv: Training images
@@ -31,7 +31,7 @@ Adjust the number of epochs and batch size as needed for your dataset.
 Results
 After training, the model's accuracy on the test set is displayed. A prediction for a random test image is also provided.
 
-##Acknowledgments
+## Acknowledgments
 TensorFlow and Keras for providing the deep learning framework.
 NumPy for numerical operations.
 Matplotlib for data visualization.
